@@ -1,6 +1,6 @@
 ### Willem — développeur full-stack
 
-Alternant développeur Java chez **TGI Maritime Software** (Dunkerque) et étudiant en 3ᵉ année de **BUT Informatique**, parcours développement d'applications, à l'ULCO (Calais).
+Alternant développeur Java chez **TGI Maritime Solutions** (Dunkerque) et étudiant en 3ᵉ année de **BUT Informatique**, parcours développement d'applications, à l'ULCO (Calais).
 
 Je construis des applications de bout en bout, du schéma de base de données jusqu'au `docker-compose.yml` qui tourne en production, et j'auto-héberge tout ce que je peux : homelab sous Ubuntu Server avec Docker, Tailscale, Pi-hole, Immich et n8n. La plupart de mes projets répondent à un besoin concret de mon entourage : étudiants, club d'escalade, enseignants.
 
